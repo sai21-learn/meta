@@ -1,0 +1,18 @@
+[
+    {
+        "id": "watch-01",
+        "name": "Chrono Gold",
+        "type": "watch",
+        "price": "$1,200",
+        "modelUrl": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Models/master/2.0/BoomBox/glTF-Binary/BoomBox.glb",
+        "color": "#D4AF37"
+    },
+    {
+        "id": "ring-01",
+        "name": "Eternity Band",
+        "type": "ring",
+        "price": "$850",
+        "modelUrl": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Models/master/2.0/Duck/glTF-Binary/Duck.glb",
+        "color": "#C0C0C0"
+    }
+]
