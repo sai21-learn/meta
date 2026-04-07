@@ -1,0 +1,11 @@
+{
+    "buildCommand": "npm run build --prefix ar-tryon",
+    "outputDirectory": "ar-tryon/dist",
+    "framework": "vite",
+    "rewrites": [
+        {
+            "source": "/(.*)",
+            "destination": "/"
+        }
+    ]
+}
